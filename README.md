@@ -1,4 +1,4 @@
-# Hello, I'm Yes 👋
+# Hello, I'm Theodore Mavrommatis 👋
 
 I'm a Mechanical Engineering student at Aristotle University of Thessaloniki, passionate about algorithm development and creating data-driven solutions.
 
